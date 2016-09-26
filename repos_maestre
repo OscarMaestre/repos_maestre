@@ -1,0 +1,5 @@
+#!/bin/bash
+
+echo "Estableciendo repositorios del Maestre"
+sudo cp /var/maestre-utils/maestre.list /etc/apt/sources.list
+

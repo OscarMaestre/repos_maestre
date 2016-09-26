@@ -1,0 +1,18 @@
+# 
+
+# deb cdrom:[Ubuntu-Server 12.04.2 LTS _Precise Pangolin_ - Release i386 (20130214)]/ precise main restricted
+
+#deb cdrom:[Ubuntu-Server 12.04.2 LTS _Precise Pangolin_ - Release i386 (20130214)]/ precise main restricted
+
+# See http://help.ubuntu.com/community/UpgradeNotes for how to upgrade to
+# newer versions of the distribution.
+deb http://10.8.0.253/ubuntu/ precise main restricted
+deb http://10.8.0.253/ubuntu/ precise-updates main restricted
+deb http://10.8.0.253/ubuntu/ precise universe
+deb http://10.8.0.253/ubuntu/ precise-updates universe
+deb http://10.8.0.253/ubuntu/ precise multiverse
+deb http://10.8.0.253/ubuntu/ precise-updates multiverse
+deb http://10.8.0.253/ubuntu/ precise-backports main restricted universe multiverse
+deb http://10.8.0.253/ubuntu precise-security main restricted
+deb http://10.8.0.253/ubuntu precise-security universe
+deb http://10.8.0.253/ubuntu precise-security multiverse

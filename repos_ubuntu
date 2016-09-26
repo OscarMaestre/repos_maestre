@@ -1,0 +1,5 @@
+#!/bin/bash
+
+echo "Estableciendo repositorios oficiales de Ubuntu"
+sudo cp /var/maestre-utils/ubuntu.list /etc/apt/sources.list
+
